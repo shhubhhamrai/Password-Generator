@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import './App.css';
 import { LC, NC, SC, UC } from './PassChar';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/ReactToastify.css';
 
 function App() {
 
@@ -31,6 +33,9 @@ function App() {
   }
   let copyPass = () =>{
     navigator.clipboard.writeText(fPass) // Navigator is a javascript object
+    setFpass("");
+    toast.success("Password Copied successfully")
+
   }
 
   return (
@@ -65,6 +70,8 @@ function App() {
           Generate Password
         </button>
       </div>
+      <ToastContainer/>
+
     </>
   );
 }

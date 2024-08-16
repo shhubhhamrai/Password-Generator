@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shhubhhamrai/Password-Generator/static/css/main.7cd6987a.css",
-    "main.js": "/shhubhhamrai/Password-Generator/static/js/main.de993b48.js",
-    "static/js/453.235bce46.chunk.js": "/shhubhhamrai/Password-Generator/static/js/453.235bce46.chunk.js",
-    "index.html": "/shhubhhamrai/Password-Generator/index.html",
-    "main.7cd6987a.css.map": "/shhubhhamrai/Password-Generator/static/css/main.7cd6987a.css.map",
-    "main.de993b48.js.map": "/shhubhhamrai/Password-Generator/static/js/main.de993b48.js.map",
-    "453.235bce46.chunk.js.map": "/shhubhhamrai/Password-Generator/static/js/453.235bce46.chunk.js.map"
+    "main.css": "/Password-Generator/static/css/main.7cd6987a.css",
+    "main.js": "/Password-Generator/static/js/main.c498a240.js",
+    "static/js/453.235bce46.chunk.js": "/Password-Generator/static/js/453.235bce46.chunk.js",
+    "index.html": "/Password-Generator/index.html",
+    "main.7cd6987a.css.map": "/Password-Generator/static/css/main.7cd6987a.css.map",
+    "main.c498a240.js.map": "/Password-Generator/static/js/main.c498a240.js.map",
+    "453.235bce46.chunk.js.map": "/Password-Generator/static/js/453.235bce46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cd6987a.css",
-    "static/js/main.de993b48.js"
+    "static/js/main.c498a240.js"
   ]
 }

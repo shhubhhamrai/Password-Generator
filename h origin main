@@ -1,0 +1,23 @@
+[33mcommit 76fa1791c25dea5d8635e12e906d9de10cf59b65[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Shubham Rai <140876805+shhubhhamrai@users.noreply.github.com>
+Date:   Thu Aug 8 10:15:59 2024 +0530
+
+    New updates
+
+[33mcommit f41569c872b5dea3a523ff9c0fef397e286fceab[m
+Author: Shubham Rai <140876805+shhubhhamrai@users.noreply.github.com>
+Date:   Thu Aug 8 00:12:15 2024 +0530
+
+    updated file
+
+[33mcommit c0e65c7208455b4e5e310e5e8ca76755a716ab24[m
+Author: Shubham Rai <140876805+shhubhhamrai@users.noreply.github.com>
+Date:   Wed Aug 7 23:46:51 2024 +0530
+
+    Random Password Generator
+
+[33mcommit 7db5a65588717020cc0688b2bcf1186dea8ba5bb[m
+Author: Shubham Rai <140876805+shhubhhamrai@users.noreply.github.com>
+Date:   Wed Aug 7 15:22:53 2024 +0530
+
+    Initialize project using Create React App
